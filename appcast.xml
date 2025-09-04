@@ -13,7 +13,7 @@
       <pubDate>Wed, 03 Sep 2025 15:13:27 +08:00</pubDate>
       <sparkle:version>1.0.3</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <enclosure url="http://gitlab.cowain.com.cn/btbu/cowainwcs6180/raw/master/CowainWcs6180Setup.exe" sparkle:version="1.0.3" sparkle:shortVersionString="1.0.3" length="220969084" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="rxf5DSre0P+6zRELsV8DF2WLAI3ijso1T7ZS2kEhvsATtNY5hJWMecAXlCrNy/qWiyJ6wmMswVr4sVg0LmuRBw==" />
+      <enclosure url="https://github.com/langsisi/CowainWcs6180/releases/download/last/CowainWcs6180Setup.exe" sparkle:version="1.0.3" sparkle:shortVersionString="1.0.3" length="220969084" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="rxf5DSre0P+6zRELsV8DF2WLAI3ijso1T7ZS2kEhvsATtNY5hJWMecAXlCrNy/qWiyJ6wmMswVr4sVg0LmuRBw==" />
     </item>
   </channel>
 </rss>
