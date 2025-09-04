@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 1.0.3</title>
+      <description>### 版本 1.0.3 更新内容
+* 增加自动升级，支持配置升级地址
+* 安装包自动检测   mysql  是否存在，存在不安装
+* 自动检测是否安装   vc++  库，没有安装时自动安装</description>
+      <pubDate>Wed, 03 Sep 2025 15:13:27 +08:00</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <enclosure url="http://gitlab.cowain.com.cn/btbu/cowainwcs6180/raw/master/CowainWcs6180Setup.exe" sparkle:version="1.0.3" sparkle:shortVersionString="1.0.3" length="220969084" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="rxf5DSre0P+6zRELsV8DF2WLAI3ijso1T7ZS2kEhvsATtNY5hJWMecAXlCrNy/qWiyJ6wmMswVr4sVg0LmuRBw==" />
+    </item>
+  </channel>
+</rss>
